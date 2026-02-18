@@ -1,0 +1,8 @@
+{
+  "name": "Decent cognitive twin (First model that makes decent insight)",
+  "description": "A sophisticated AI companion designed to simulate your internal mind, mapping cognitive patterns, causal origins, and nonverbal cues to create a high-fidelity digital twin.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
